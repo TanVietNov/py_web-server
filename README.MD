@@ -9,4 +9,4 @@ python server.py
 
 To launch web app open [localhost:9000](localhost:9000).
 
-![web app screen](Game screen.jpg)
+[web app screen](Game screen.jpg)
